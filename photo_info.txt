@@ -1,0 +1,13 @@
+//照片信息模板，二级目录，即照片有分类
+//符号#为分隔符，正文填写中请勿出现该符号
+TITLE#Cấc Đào#A girl with wisdom and beauty
+//背景大照片，用于循环播放，建议4张左右
+BACK#back/back_1.jpg#back/back_2.jpg#back/back_3.jpg#back/back_4.jpg
+//用于显示在网页正中间的大字
+MID# Dedicated to my friend
+PART1DaLat#DaLat#
+IMG_E6042.JPG#大叻·Xuan Huong Lake#初到大叻，秋日暖阳，波光粼粼，春心荡漾。
+PART2MuiNe#MuiNe#
+IMG_E7217.JPG#潘切·Doha#春有百花冬有雪，夏饮冰茶秋赏月，漫漫人生慢慢走。
+PART3VungTau#VungTau#
+IMG_E7487.JPG#头顿·Back Beach#半生风雨半身伤，半句别恨半心凉。我是檐上三寸雪，你是人间惊鸿客。含娇含笑，宿翠残红窈窕。南风知我意，吹梦到安南。南风未起，念你成疾。
